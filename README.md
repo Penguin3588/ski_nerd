@@ -11,3 +11,4 @@ NSF ADC - test repository to learn git/github
 ## Authors
 
 - Jakob Reif
+- some one
