@@ -2,7 +2,7 @@
 NSF ADC - test repository to learn git/github
 
 ## Simulating merge conflicts
-
+Love line 5
 ## Purpose
 
 - create a remote repo on github
