@@ -1,8 +1,10 @@
 # ski_nerd - love it
 NSF ADC - test repository to learn git/github
 
-
 ## test
+
+## Simulating merge conflicts
+Love line 5 now 7
 
 ## Purpose
 
