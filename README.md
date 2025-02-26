@@ -11,10 +11,13 @@ NSF ADC - test repository to learn git/github
 ## Authors
 
 - Jakob Reif
-<<<<<<< HEAD
 - some one
-=======
+
 - SalOehl
 
 ## Git Workflow
->>>>>>> 0290a1a3926f1942d69061489f0447b3f0712059
+
+Step 5: Owner pulls the changes that the Collaborator made
+Step 6: Owner edits the README file:
+Under “Git Workflow”, Owner adds the steps of the Git workflow we’ve been practicing
+
